@@ -29,5 +29,5 @@ Here we go:
 
 .. _nasm: http://nasm.us/
 .. _bochs: https://www.qemu.org/
-.. _`‹prev`: https://github.com/yyu/osfs00
-.. _`next›`: https://github.com/yyu/osfs02
+.. _`‹prev`: https://github.com/chenxiex/osfs00
+.. _`next›`: https://github.com/chenxiex/osfs02

@@ -8,11 +8,11 @@ Let's begin with a simplest boot sector. You'll see how easy it is to get starte
 
 Here we go:
 
-+ Install nasm_ the assembly compiler and bochs_ the emulator
++ Install nasm_ the assembly compiler and qemu_ the emulator. I highly recommend using the package manager of your distribution to install them.
 
 + Clone me (we're in GitHub, aren't we)::
 
-      $ git clone https://github.com/yyu/osfs01.git
+      $ git clone https://github.com/chenxiex/osfs01.git
 
 + Run your smallest "OS" right now::
 
@@ -28,6 +28,6 @@ Here we go:
 `‹prev`_   `next›`_
 
 .. _nasm: http://nasm.us/
-.. _bochs: http://bochs.sourceforge.net/
+.. _bochs: https://www.qemu.org/
 .. _`‹prev`: https://github.com/yyu/osfs00
 .. _`next›`: https://github.com/yyu/osfs02

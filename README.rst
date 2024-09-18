@@ -28,6 +28,6 @@ Here we go:
 `‹prev`_   `next›`_
 
 .. _nasm: http://nasm.us/
-.. _bochs: https://www.qemu.org/
+.. _qemu: https://www.qemu.org/
 .. _`‹prev`: https://github.com/chenxiex/osfs00
 .. _`next›`: https://github.com/chenxiex/osfs02
